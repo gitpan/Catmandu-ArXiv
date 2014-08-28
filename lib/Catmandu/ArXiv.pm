@@ -1,16 +1,22 @@
 package Catmandu::ArXiv;
 
+our $VERSION = '0.021';
+
 =head1 NAME
 
 Catmandu::ArXiv - Catmandu modules for working with ArXiv data.
 
-=head1 VERSION
+=head1 STATUS
 
-Version 0.01
+=begin HTML
 
-=cut
+<p>
+<a href="https://travis-ci.org/LibreCat/Catmandu-ArXiv"><img src="https://travis-ci.org/LibreCat/Catmandu-ArXiv.svg?branch=master" alt="build status" /></a>
+<a href="https://coveralls.io/repos/LibreCat/Catmandu-ArXiv/"><img src="https://coveralls.io/repos/LibreCat/Catmandu-ArXiv/badge.png?branch=master" alt="coverage status" /></a>
+<a href="http://cpants.cpanauthors.org/dist/Catmandu-ArXiv"><img src="http://cpants.cpanauthors.org/dist/Catmandu-ArXiv.png" alt="kwalitee score" /></a>
+</p>
 
-our $VERSION = '0.01';
+=end HTML
 
 =head1 MODULES
 
@@ -24,7 +30,9 @@ our $VERSION = '0.01';
 
 =over
 
-=item * Wouter Willaert, C<< <wouterw@inuits.eu> >>
+=item * Wouter Willaert
+
+=item * Vitali Peil
 
 =back
 

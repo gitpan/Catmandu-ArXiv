@@ -1,17 +1,19 @@
-Catmandu-ArXiv
+NAME
+    Catmandu::ArXiv - Catmandu modules for working with ArXiv data.
 
-Installation
+STATUS
+MODULES
+    *   Catmandu::Importer::ArXiv
 
-To install this module, run the following commands:
+AUTHOR
+    *   Wouter Willaert
 
-  perl Build.PL
-  ./Build
-  ./Build test
-  ./Build install
+    *   Vitali Peil
 
-Support and documentation
+LICENSE AND COPYRIGHT
+    This program is free software; you can redistribute it and/or modify it
+    under the terms of either: the GNU General Public License as published
+    by the Free Software Foundation; or the Artistic License.
 
-After installing, you can find documentation for this module with the
-perldoc command.
+    See http://dev.perl.org/licenses/ for more information.
 
-  perldoc Catmandu::ArXiv
